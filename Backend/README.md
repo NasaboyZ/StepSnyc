@@ -31,4 +31,3 @@ composer install
 3. **Lets start**:
 php artisan serve
 
-
